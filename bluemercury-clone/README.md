@@ -6,7 +6,7 @@
 
 > - An attractive Homepage page listing various products.
 > - Social can signup/login/logout page.
-> - Authentication is implemented using localStoarge as the motive of this project was to simply build the UI.
+> - Authentication is implemented using localstorage as the motive of this project was to simply build the UI.
 > - Responsive design for various devices.
 
 ## Tech Stack & Tools:
@@ -27,19 +27,25 @@
 
 Landing Page
 
-![Screenshot (677)](https://user-images.githubusercontent.com/101392142/191172747-9cc21286-6a92-46b3-9b17-ea909301ab40.png)
+![Screenshot (8498)](https://github.com/sukanta255/bluemercury-clone/assets/101393346/c8bf570e-4df7-43d7-ba76-bac57ddc5080)
 ***
 Product Section
 
-![Screenshot (680)](https://user-images.githubusercontent.com/101392142/191172763-c823af83-2990-4160-8687-f88092fc9fbd.png)
+![Screenshot (8499)](https://github.com/sukanta255/bluemercury-clone/assets/101393346/3e484ee5-6a99-48ad-bddf-55a8ea6a04ff)
+![Screenshot (8501)](https://github.com/sukanta255/bluemercury-clone/assets/101393346/80b48543-2173-49b3-a032-46a488ee323d)
+
 ***
 Login Page
 
-![Screenshot (681)](https://user-images.githubusercontent.com/101392142/191172768-fc47b908-4fa7-4167-b318-ccb152d3ccc7.png)
+![Screenshot (8505)](https://github.com/sukanta255/bluemercury-clone/assets/101393346/f7edce1f-0aa2-422e-a218-d44dd460fb08)
 ***
 Signup Page
 
-![Screenshot (682)](https://user-images.githubusercontent.com/101392142/191172771-20475206-dc4b-4291-9dd2-851bca0f6847.png)
+![Screenshot (8504)](https://github.com/sukanta255/bluemercury-clone/assets/101393346/db6e0a7b-b4c2-4d06-935f-3732727923ad)
+***
+
+Footer Part
+![Screenshot (8503)](https://github.com/sukanta255/bluemercury-clone/assets/101393346/0682db2b-fd4a-4689-8cb7-492ff9c89d12)
 ***
 
 ## Created By:
