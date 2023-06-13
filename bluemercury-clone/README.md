@@ -1,4 +1,4 @@
-# BlueMercury.com - Clone Project
+# Bluemercury.com - Clone Project
 
 #### An e-commerce related Website that deals in cosmetic and skin care product
 
@@ -47,7 +47,7 @@ Signup Page
 
 ### Sukanta Pramanik
 > - Portfolio: [sukanta255.github.io](https://sukanta.github.io)
-> - GitHub: [sukanta](https://github.com/sukanta255)
+> - GitHub: [sukanta255](https://github.com/sukanta255)
 > - Email: sukantapramanik9295@gmail.com
 > - LinkedIn: [sukanta-pramanik-952a1b147](https://www.linkedin.com/in/sukanta-pramanik-952a1b147/)
 
