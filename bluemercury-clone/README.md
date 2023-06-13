@@ -32,7 +32,6 @@ Landing Page
 Product Section
 
 ![Screenshot (680)](https://user-images.githubusercontent.com/101392142/191172763-c823af83-2990-4160-8687-f88092fc9fbd.png)
-![Screenshot (678)](https://user-images.githubusercontent.com/101392142/191172751-826cf922-601b-4206-8222-54e0d13e3cda.png)
 ***
 Login Page
 
