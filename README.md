@@ -27,7 +27,7 @@
 
 Landing Page
 
-![Screenshot (677)](https://user-images.githubusercontent.com/101392142/191172747-9cc21286-6a92-46b3-9b17-ea909301ab40.png)
+![Screenshot (8498)](https://github.com/sukanta255/bluemercury-clone/assets/101393346/c8bf570e-4df7-43d7-ba76-bac57ddc5080)
 ***
 Product Section
 
